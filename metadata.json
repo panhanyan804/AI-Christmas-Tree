@@ -1,0 +1,7 @@
+{
+  "name": "Luxe Gesture Tree",
+  "description": "A luxury interactive Christmas tree powered by hand gestures and WebGL particles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
